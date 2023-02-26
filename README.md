@@ -1,4 +1,4 @@
-# primitive_anarchy
+# Primitive Anarchy
 Primitive anarchy is a 2d survival game
 
 ## Screenshots
